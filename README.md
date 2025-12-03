@@ -67,6 +67,8 @@ df_explode["dtParcela"] = df_explode.apply(calcDtParcela, axis=1)
    ```bash
    pip install pandas openpyxl
    ```
+3. Navegue até a pasta 05_Laboratorio_Cases para ver os scripts de ETL em ação.
+   
 ## 🔗 Conecte-se Comigo
 
 Acompanhe meu progresso e vamos trocar ideias!
